@@ -23,8 +23,7 @@ Machine Learning | Python Developer
 
 ### Glad To see You!! 
 
-Pursuing bachelor's in Artificial Intelligence & Machine Learning From Universal College of Engineering in Mumbai   
-  
+Pursuing bachelor's in Artificial Intelligence & Machine Learning From Universal College of Engineering in Mumbai. I am passionate about using machine learning to solve real-world problems and to make a positive impact on people's lives. I am always looking for new opportunities to learn and to develop my skills in this field. I love to experiment with new technologies. In my free time, I like to work on side projects and to read up on the latest advancements in machine learning.
 
 <br/>  
 
