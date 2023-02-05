@@ -31,7 +31,7 @@ I am Pursuing bachelor's in Artificial Intelligence & Machine Learning From Univ
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Real Estate Price](https://github.com/KevinModi20/Real-estate-prices)  
+<!-- - 🔭 I’m currently working on [Real Estate Price](https://github.com/KevinModi20/Real-estate-prices)   -->
   
 
 - 🌱 I’m currently learning Machine Learning  
